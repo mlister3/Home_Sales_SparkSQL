@@ -1,7 +1,13 @@
 # Home_Sales_SparkSQL
 - - - 
 
-- - - 
+Summary
+
+* The purpose of this repository is to understand 1. how to use Spark, SparkSQL, and Spark DataFrames. 2. review the query processing times for large datasets that are cashed, uncashed, and read from a .parquet file.
+
+Home_Sales_colab.ipynb - the Jupyter Notebook file that was processed in Google Colab reads the dataset from a static URL and queries are ran from a temporary view of the dataset cashed and uncashed before being saved and read as a .parquet file.
+
+home_sales_partitioned_parquet.zip - zipped download of the resulting .parquet file from Google Colab.
 
 - - - 
 
