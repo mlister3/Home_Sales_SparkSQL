@@ -30,7 +30,7 @@ Summary
 
     - What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
-6. ache your temporary table `home_sales`.
+6. Cache your temporary table `home_sales`.
 
 7. Check if your temporary table is cached.
 
